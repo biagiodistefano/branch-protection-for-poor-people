@@ -7,7 +7,7 @@ Are you a dumb developer like me who pushes directly to `master` on their second
 I got you covered.
 
 Install this `git hook` either globally (for all your **future** repositories) or locally (for a single repository)
-and you will be able to "protect" your `master|main|dev` branch from being pushed to directly.
+and you will be able to [protect](https://www.youtube.com/watch?v=dQw4w9WgXcQ) your `master|main|dev` branch from being pushed to directly.
 
 ## Local Installation
 
