@@ -1,10 +1,12 @@
 # Branch Protection for Poor People
 
 Are you concerned about branch protection in your GitHub repositories, but you are short on cash?
+
 Are you a dumb developer like me who pushes directly to `master` on their second day of work?
+
 I got you covered.
 
-Install this `git hook` either globally (for all your repositories) or locally (for a single repository)
+Install this `git hook` either globally (for all your **future** repositories) or locally (for a single repository)
 and you will be able to "protect" your `master|main|dev` branch from being pushed to directly.
 
 ## Local Installation
